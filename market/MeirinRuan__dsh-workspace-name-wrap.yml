@@ -1,0 +1,7 @@
+url: https://github.com/MeirinRuan/dsh-workspace-name-wrap
+name: MeirinRuan/dsh-workspace-name-wrap
+category: ui
+description:
+  en: Wrap long workspace names within the sidebar width.
+  zh: 让长工作区名称按侧栏宽度换行，行高随内容增加，工作区标题和目录名称保持原值。
+tarball: https://github.com/MeirinRuan/dsh-workspace-name-wrap/releases/latest/download/dsh-workspace-name-wrap.tgz
